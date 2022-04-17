@@ -2809,7 +2809,7 @@ h1.page-title + .tag-cloud-list {
   animation: more-btn-move 1s infinite;
 }
 #aside-content .card-announcement .item-headline i {
-  color: #f00;
+  color: #00c4b6;
 }
 .avatar-img {
   overflow: hidden;
